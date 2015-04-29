@@ -8,7 +8,7 @@
 #   Just link a www.beatport.com sound and we'll do the rest.
 #
 # Author:
-#   Jeremy Mack
+#   Jeremy Mack @mutewinter
 
 _ = require 'lodash'
 
